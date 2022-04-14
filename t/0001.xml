@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<language>
+
+<page id="4816392" title="DeadAir T Files" descr="names used in DeadAir Mods" voice="yes">
+<!-- 3323247 == deadair --><!--48163x69 == 3323247 since there is a character limit --><!--48163##-->
+<!-- 100 ship name -->
+<!-- 200 ship description -->
+<!-- 300 ishield -->
+ <t id="100">Fenrir</t>
+ <t id="200">Third in line to jump on the freighter bandwagon, the Republic decided early in the design process to focus on a balance between all ship systems. True to form, their creation is comparatively lightweight - though lightweight is certainly not a term easily applicable to this giant.</t>
+ <t id="300">IG L - Fenrir Internal Generator</t>
+ <t id="101">Hurricane</t>
+ <t id="201">The force with which this ship hits is more than sufficient to leave a trail of shattered enemies, floating around like so much lifeless debris. An adaptable vessel, it has enough turret hardpoints for a full-scale assault while remaining versatile enough to allow for plenty of missile fire, and has both sufficient speed to outrun its enemies and sufficient capacitor charge to outlast them.</t>
+ <t id="301">IG L - Hurricane Internal Generator</t>
+ <t id="102">Loki</t>
+ <t id="202">For many Minmatar, the high mountains of Matar hold wonders unknown to the rest of New Eden: hidden glens, beautiful creatures, buried customs. Not surprisingly, the Krusual tribe lay claim to these mountains, their home for generations and base to their machinations.\n\Krusual elders whisper ancient tales among their huddled tribes, describing the glory of heroes past and enigmatic prophecies of old. On the darkest day, at the most hopeless moments, an elder may speak of loki, in reverent tones and excited hushes. In the ancient tongue, the loki are the crux of Krusual thought. There is no direct translation for this word; in fact, loki translates differently among the elders. It can mean “hidden wonder” or “secret passage”, “changing mask” or “unseen dagger”. Regardless of its context, loki has one meaning common to all its tales across all the elders: “hope”.</t>
+ <t id="302">IG L - Loki Internal Generator</t>
+ <t id="103">Maelstrom</t>
+ <t id="203">With the Maelstrom, versatility is the name of the game. Its defensive capabilities make it ideally suited for small raid groups or solo work, while its 8 turret hardpoints present opportunities for untold carnage on the fleet battlefield.</t>
+ <t id="303">IG L - Maelstrom Internal Generator</t>
+ <t id="104">Stabber</t>
+ <t id="204">The Stabber is the mainstay of the Minmatar fleet. It is light and extremely fast, yet surprisingly powerful, with a wide variety of weapons. It is one of few Minmatar vessels that have reached popularity outside Minmatar space.</t>
+ <t id="304">IG L - Stabber Internal Generator</t>
+ <t id="105">Tempest</t>
+ <t id="205">The Tempest is one of the Republic Fleet's key vessels; a versatile gunship proficient at long-range bombardment and capable of dishing out specialized types of damage with great effectiveness. A well-rounded squadron of Tempests has been proven time and time again to be an invaluable wild card in a fleet battle, one which opponents should ignore at their own peril.</t>
+ <t id="305">IG L - Tempest Internal Generator</t>
+ <t id="106">Tornado</t>
+ <t id="206">In YC 113 Republic Security Services learned the Amarr Empire was building a new battlecruiser capable of supporting battleship-class weapons. Determined to not lose their technological edge to their adversaries, Republic Fleet commissioned Boundless Creation to construct a gunboat to match.\n\What they designed was the Tornado. Developed in record time and total secrecy, the Tornado is a testament to Minmatar engineering. Modeled loosely on flying-wing designs of ancient planetary bombers, the Tornado supports multiple large projectile turrets, dealing massive damage while maintaining a small signature radius.</t>
+ <t id="306">IG L - Tornado Internal Generator</t>
+ <t id="107">Nidhoggur</t>
+ <t id="207">Essentially a pared-down version of its big brother the Hel, the Nidhoggur nonetheless displays the same austerity of vision evident in its sibling. Quite purposefully created for nothing less than all-out warfare, and quite comfortable with that fact, the Nidhoggur will no doubt find itself a mainstay on many a battlefield.</t>
+ <t id="307">IG XL - Nidhoggur Internal Generator</t>
+ <t id="108">Ragnarok</t>
+ <t id="208">The liberty of our people is solely our responsibility. Tempting as it is to foist this burden upon our well-wishers, we must never forget that the onus of our emancipation rests with us and us alone.\n\For too long, our proud people have been subjugated to the whims of enslavers, forced to endure relentless suffering and humiliation at the hands of people whose motivations, masked though they may be by florid religious claptrap, remain as base and despicable as those of the playground bully.\n\If ever there was a time to rise – if ever there was a time to join hands with our brothers – that time is now. At this exact junction in history we have within our grasp the means to loosen our tormentors' hold and win freedom for our kin. Opportunities are there to be taken.\n\Brothers, we must rise.\n\-Malaetu Shakor, Republic Parliament Head\n\Speaking before the Tribal Council\n\November 27th, YC 107</t>
+ <t id="308">IG XL - Ragnarok Internal Generator</t>
+</page>
+</language>

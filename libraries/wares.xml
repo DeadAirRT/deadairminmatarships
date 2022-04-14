@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<add sel="//wares">
+		<!-- SHIPS -->
+		<ware id="ship_dmi_l_stabber" name="{4816392,104}" description="{4816392,204}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="4595057" average="5058890" max="5522724"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="800"/>
+					<ware ware="hullparts" amount="3650"/>
+				</primary>
+			</production>
+			<component ref="ship_dmi_l_stabber_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="mindatar"/>
+		</ware>
+		<ware id="ship_dmi_l_maelstrom" name="{4816392,103}" description="{4816392,203}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="7559033" average="8892980" max="10226927"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1387"/>
+					<ware ware="hullparts" amount="6102"/>
+				</primary>
+			</production>
+			<component ref="ship_dmi_l_maelstrom_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="mindatar"/>
+		</ware>
+		<ware id="ship_dmi_l_fenrir" name="{4816392,100}" description="{4816392,200}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="7559033" average="8892980" max="10226927"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="5"/>
+					<ware ware="hullparts" amount="5"/>
+				</primary>
+			</production>
+			<component ref="ship_dmi_l_fenrir_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="mindatar"/>
+		</ware>
+		<ware id="ship_dmi_l_tempest" name="{4816392,105}" description="{4816392,205}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="5495057" average="5858890" max="6522724"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1000"/>
+					<ware ware="hullparts" amount="4050"/>
+				</primary>
+			</production>
+			<component ref="ship_dmi_l_tempest_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="mindatar"/>
+		</ware>
+		<ware id="ship_dmi_l_tornado" name="{4816392,106}" description="{4816392,206}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="5195057" average="5658890" max="6222724"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="850"/>
+					<ware ware="hullparts" amount="3870"/>
+				</primary>
+			</production>
+			<component ref="ship_dmi_l_tornado_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="mindatar"/>
+		</ware>
+		<ware id="ship_dmi_l_hurricane" name="{4816392,101}" description="{4816392,201}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="5195057" average="5658890" max="6222724"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="850"/>
+					<ware ware="hullparts" amount="3870"/>
+				</primary>
+			</production>
+			<component ref="ship_dmi_l_hurricane_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="mindatar"/>
+		</ware>
+		<ware id="ship_dmi_l_loki" name="{4816392,102}" description="{4816392,202}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="4595057" average="5058890" max="5522724"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="800"/>
+					<ware ware="hullparts" amount="3650"/>
+				</primary>
+			</production>
+			<component ref="ship_dmi_l_loki_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="mindatar"/>
+		</ware>
+		<ware id="ship_dmi_xl_nidhoggur" name="{4816392,107}" description="{4816392,207}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="16038308" average="18650950" max="21263593"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="3703"/>
+					<ware ware="hullparts" amount="13035"/>
+				</primary>
+			</production>
+			<component ref="ship_dmi_xl_nidhoggur_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="mindatar"/>
+		</ware>
+		<ware id="ship_dmi_xl_ragnarok" name="{4816392,108}" description="{4816392,208}" group="ships_argon" transport="ship" volume="1" tags="ship">
+			<price min="16038308" average="18650950" max="21263593"/>
+			<production time="30" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="3703"/>
+					<ware ware="hullparts" amount="13035"/>
+				</primary>
+			</production>
+			<component ref="ship_dmi_xl_ragnarok_macro" amount="1"/>
+			<restriction licence="capitalship"/>
+			<owner faction="mindatar"/>
+		</ware>
+	</add>
+	<!-- ISHIELDS -->
+	<add sel="//wares">
+		<ware id="ishield_dmi_l_stabber" name="{4816392,304}" description="{4816392,304}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dmi_l_stabber_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dmi_l_maelstrom" name="{4816392,303}" description="{4816392,303}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dmi_l_maelstrom_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dmi_l_fenrir" name="{4816392,300}" description="{4816392,300}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dmi_l_fenrir_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dmi_l_tempest" name="{4816392,305}" description="{4816392,305}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dmi_l_tempest_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dmi_l_tornado" name="{4816392,306}" description="{4816392,306}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dmi_l_tornado_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dmi_l_hurricane" name="{4816392,301}" description="{4816392,301}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dmi_l_hurricane_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dmi_l_loki" name="{4816392,302}" description="{4816392,302}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dmi_l_loki_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dmi_xl_nidhoggur" name="{4816392,307}" description="{4816392,307}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dmi_xl_nidhoggur_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+		<ware id="ishield_dmi_xl_ragnarok" name="{4816392,308}" description="{4816392,308}" group="shields" transport="equipment" volume="1" tags="equipment shield">
+			<price min="12" average="16" max="21"/>
+			<component ref="ishield_dmi_xl_ragnarok_macro" amount="1"/>
+			<production time="1" amount="1" method="default" name="{20206,101}">
+				<primary>
+					<ware ware="energycells" amount="1"/>
+				</primary>
+			</production>
+			<use threshold="0"/>
+			<restriction licence="generaluseequipment"/>
+		</ware>
+	</add>
+</diff>

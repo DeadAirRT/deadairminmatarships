@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<macros>
+	<macro name="ishield_dmi_l_tempest_macro" class="shieldgenerator">
+		<component ref="ishield_dmi_l_tempest"/>
+		<properties>
+			<identification name="{4816392,305}"/>
+			<recharge max="30000" rate="914" delay="0"/>
+			<hull integrated="1"/>
+		</properties>
+	</macro>
+</macros>

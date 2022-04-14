@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<macros>
+	<macro name="ishield_dmi_l_loki_macro" class="shieldgenerator">
+		<component ref="ishield_dmi_l_loki"/>
+		<properties>
+			<identification name="{4816392,302}"/>
+			<recharge max="135000" rate="1000" delay="0"/>
+			<hull integrated="1"/>
+		</properties>
+	</macro>
+</macros>

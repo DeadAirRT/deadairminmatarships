@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+<replace sel="//group[@name='dmi_destroyer_l']">
+		<group name="dmi_destroyer_l">
+			<select macro="ship_dmi_l_maelstrom_macro" weight="100"/>
+			<select macro="ship_dmi_l_tempest_macro" weight="100"/>
+		</group>
+</replace>
+<replace sel="//group[@name='dmi_escort_l']">
+		<group name="dmi_escort_l">
+			<select macro="ship_dmi_l_hurricane_macro" weight="100"/>
+			<select macro="ship_dmi_l_loki_macro" weight="100"/>
+			<select macro="ship_dmi_l_stabber_macro" weight="100"/>
+			<select macro="ship_dmi_l_tornado_macro" weight="100"/>
+		</group>
+</replace>
+<replace sel="//group[@name='dmi_trader_container_l']">
+		<group name="dmi_trader_container_l">
+			<select macro="ship_dmi_l_fenrir_macro" weight="100"/>
+		</group>
+</replace>
+<replace sel="//group[@name='dmi_carrier_xl']">
+		<group name="dmi_carrier_xl">
+			<select macro="ship_dmi_xl_nidhoggur_macro" weight="100"/>
+		</group>
+</replace>
+<add sel="//groups">
+		<group name="dmi_battleship_xl">
+			<select macro="ship_dmi_xl_ragnarok_macro" weight="100"/>
+		</group>
+</add>
+</diff>

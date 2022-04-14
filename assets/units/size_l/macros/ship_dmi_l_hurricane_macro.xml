@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<macros>
+	<macro name="ship_dmi_l_hurricane_macro" class="ship_l">
+		<component ref="ship_dmi_l_hurricane"/>
+		<properties>
+			<identification name="{4816392,101}" basename="{4816392,101}" description="{4816392,201}" icon="ship_l_da_battlecruiser"/>
+			<software>
+				<software ware="software_dockmk2" compatible="1"/>
+				<software ware="software_flightassistmk1" default="1"/>
+				<software ware="software_scannerlongrangemk1" default="1"/>
+				<software ware="software_scannerlongrangemk2" compatible="1"/>
+				<software ware="software_scannerobjectmk1" default="1"/>
+				<software ware="software_scannerobjectmk2" compatible="1"/>
+				<software ware="software_targetmk1" default="1"/>
+				<software ware="software_trademk1" compatible="1"/>
+			</software>
+			<explosiondamage value="1000" shield="5000"/>
+			<storage missile="205" unit="15"/>
+			<hull max="183215"/>
+			<secrecy level="2"/>
+			<purpose primary="fight"/>
+			<people capacity="49"/>
+			<physics mass="206.17">
+				<inertia pitch="86.32" yaw="122.26" roll="87.38"/>
+				<drag forward="107.63" reverse="455.63" horizontal="79.36" vertical="79.36" pitch="86.32" yaw="122.26" roll="87.38"/>
+			</physics>
+			<thruster tags="large"/>
+			<ship type="destroyer"/>
+			<sound_occlusion inside="0.6"/>
+		</properties>
+		<connections>
+			<connection ref="con_cockpit">
+				<macro ref="bridge_arg_l_01_macro" connection="con_cockpit"/>
+			</connection>
+			<connection ref="con_storage01">
+				<macro ref="storage_dmi_l_hurricane_macro" connection="ShipConnection"/>
+			</connection>
+			<connection ref="con_dock_xs">
+				<macro ref="dock_gen_xs_ship_01_macro" connection="Connection_component"/>
+			</connection>
+		</connections>
+	</macro>
+</macros>

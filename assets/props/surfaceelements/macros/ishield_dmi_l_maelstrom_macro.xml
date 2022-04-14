@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<macros>
+	<macro name="ishield_dmi_l_maelstrom_macro" class="shieldgenerator">
+		<component ref="ishield_dmi_l_maelstrom"/>
+		<properties>
+			<identification name="{4816392,303}"/>
+			<recharge max="46666" rate="914" delay="0"/>
+			<hull integrated="1"/>
+		</properties>
+	</macro>
+</macros>

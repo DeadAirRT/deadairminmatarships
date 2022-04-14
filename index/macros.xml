@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <entry name="ship_dmi_l_fenrir_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\ship_dmi_l_fenrir_macro" />
+  <entry name="storage_dmi_l_fenrir_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\storage_dmi_l_fenrir_macro" />
+  <entry name="ship_dmi_l_hurricane_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\ship_dmi_l_hurricane_macro" />
+  <entry name="storage_dmi_l_hurricane_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\storage_dmi_l_hurricane_macro" />
+  <entry name="ship_dmi_l_loki_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\ship_dmi_l_loki_macro" />
+  <entry name="storage_dmi_l_loki_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\storage_dmi_l_loki_macro" />
+  <entry name="ship_dmi_l_maelstrom_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\ship_dmi_l_maelstrom_macro" />
+  <entry name="storage_dmi_l_maelstrom_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\storage_dmi_l_maelstrom_macro" />
+  <entry name="ship_dmi_l_stabber_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\ship_dmi_l_stabber_macro" />
+  <entry name="storage_dmi_l_stabber_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\storage_dmi_l_stabber_macro" />
+  <entry name="ship_dmi_l_tempest_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\ship_dmi_l_tempest_macro" />
+  <entry name="storage_dmi_l_tempest_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\storage_dmi_l_tempest_macro" />
+  <entry name="ship_dmi_l_tornado_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\ship_dmi_l_tornado_macro" />
+  <entry name="storage_dmi_l_tornado_macro" value="extensions\deadairminmatarships\assets\units\size_l\macros\storage_dmi_l_tornado_macro" />
+  
+  <entry name="ishield_dmi_l_fenrir_macro" value="extensions\deadairminmatarships\assets\props\surfaceelements\macros\ishield_dmi_l_fenrir_macro" />
+  <entry name="ishield_dmi_l_hurricane_macro" value="extensions\deadairminmatarships\assets\props\surfaceelements\macros\ishield_dmi_l_hurricane_macro" />
+  <entry name="ishield_dmi_l_loki_macro" value="extensions\deadairminmatarships\assets\props\surfaceelements\macros\ishield_dmi_l_loki_macro" />
+  <entry name="ishield_dmi_l_maelstrom_macro" value="extensions\deadairminmatarships\assets\props\surfaceelements\macros\ishield_dmi_l_maelstrom_macro" />
+  <entry name="ishield_dmi_l_stabber_macro" value="extensions\deadairminmatarships\assets\props\surfaceelements\macros\ishield_dmi_l_stabber_macro" />
+  <entry name="ishield_dmi_l_tempest_macro" value="extensions\deadairminmatarships\assets\props\surfaceelements\macros\ishield_dmi_l_tempest_macro" />
+  <entry name="ishield_dmi_l_tornado_macro" value="extensions\deadairminmatarships\assets\props\surfaceelements\macros\ishield_dmi_l_tornado_macro" />
+  
+  <entry name="ship_dmi_xl_nidhoggur_macro" value="extensions\deadairminmatarships\assets\units\size_xl\macros\ship_dmi_xl_nidhoggur_macro" />
+  <entry name="storage_dmi_xl_nidhoggur_macro" value="extensions\deadairminmatarships\assets\units\size_xl\macros\storage_dmi_xl_nidhoggur_macro" />
+  <entry name="ishield_dmi_xl_nidhoggur_macro" value="extensions\deadairminmatarships\assets\props\surfaceelements\macros\ishield_dmi_xl_nidhoggur_macro" />
+  
+  <entry name="ship_dmi_xl_ragnarok_macro" value="extensions\deadairminmatarships\assets\units\size_xl\macros\ship_dmi_xl_ragnarok_macro" />
+  <entry name="storage_dmi_xl_ragnarok_macro" value="extensions\deadairminmatarships\assets\units\size_xl\macros\storage_dmi_xl_ragnarok_macro" />
+  <entry name="ishield_dmi_xl_ragnarok_macro" value="extensions\deadairminmatarships\assets\props\surfaceelements\macros\ishield_dmi_xl_ragnarok_macro" />
+</index>

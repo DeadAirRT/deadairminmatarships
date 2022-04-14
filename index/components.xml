@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <entry name="ship_dmi_l_fenrir" value="extensions\deadairminmatarships\assets\units\size_l\ship_dmi_l_fenrir" />
+  <entry name="ship_dmi_l_hurricane" value="extensions\deadairminmatarships\assets\units\size_l\ship_dmi_l_hurricane" />
+  <entry name="ship_dmi_l_loki" value="extensions\deadairminmatarships\assets\units\size_l\ship_dmi_l_loki" />
+  <entry name="ship_dmi_l_maelstrom" value="extensions\deadairminmatarships\assets\units\size_l\ship_dmi_l_maelstrom" />
+  <entry name="ship_dmi_l_stabber" value="extensions\deadairminmatarships\assets\units\size_l\ship_dmi_l_stabber" />
+  <entry name="ship_dmi_l_tempest" value="extensions\deadairminmatarships\assets\units\size_l\ship_dmi_l_tempest" />
+  <entry name="ship_dmi_l_tornado" value="extensions\deadairminmatarships\assets\units\size_l\ship_dmi_l_tornado" />
+  <entry name="ship_dmi_xl_nidhoggur" value="extensions\deadairminmatarships\assets\units\size_xl\ship_dmi_xl_nidhoggur" />
+  <entry name="ship_dmi_xl_ragnarok" value="extensions\deadairminmatarships\assets\units\size_xl\ship_dmi_xl_ragnarok" />
+  <entry name="ishield_dmi_l_fenrir" value="extensions\deadairminmatarships\assets\props\surfaceelements\ishield_dmi_l_fenrir" />
+  <entry name="ishield_dmi_l_hurricane" value="extensions\deadairminmatarships\assets\props\surfaceelements\ishield_dmi_l_hurricane" />
+  <entry name="ishield_dmi_l_loki" value="extensions\deadairminmatarships\assets\props\surfaceelements\ishield_dmi_l_loki" />
+  <entry name="ishield_dmi_l_maelstrom" value="extensions\deadairminmatarships\assets\props\surfaceelements\ishield_dmi_l_maelstrom" />
+  <entry name="ishield_dmi_l_stabber" value="extensions\deadairminmatarships\assets\props\surfaceelements\ishield_dmi_l_stabber" />
+  <entry name="ishield_dmi_l_tempest" value="extensions\deadairminmatarships\assets\props\surfaceelements\ishield_dmi_l_tempest" />
+  <entry name="ishield_dmi_l_tornado" value="extensions\deadairminmatarships\assets\props\surfaceelements\ishield_dmi_l_tornado" />
+  <entry name="ishield_dmi_xl_nidhoggur" value="extensions\deadairminmatarships\assets\props\surfaceelements\ishield_dmi_xl_nidhoggur" />
+  <entry name="ishield_dmi_xl_ragnarok" value="extensions\deadairminmatarships\assets\props\surfaceelements\ishield_dmi_xl_ragnarok" />
+</index>

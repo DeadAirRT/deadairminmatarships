@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE icons SYSTEM "icons.dtd" >
+<icons>
+<icon name="ship_dmi_*" texture="extensions\deadairminmatarships\assets\fx\gui\textures\ships\*.tga" height="256" width="256"></icon>
+</icons>

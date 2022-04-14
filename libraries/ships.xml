@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="libraries.xsd">
+<replace sel="//ship[@id='mindatar_battleship_xl']/@group">dmi_battleship_xl</replace>
+</diff>

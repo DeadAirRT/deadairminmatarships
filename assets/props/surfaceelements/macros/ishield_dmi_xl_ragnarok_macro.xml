@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<macros>
+	<macro name="ishield_dmi_xl_ragnarok_macro" class="shieldgenerator">
+		<component ref="ishield_dmi_xl_ragnarok"/>
+		<properties>
+			<identification name="{4816392,308}"/>
+			<recharge max="303333" rate="814" delay="0"/>
+			<hull integrated="1"/>
+		</properties>
+	</macro>
+</macros>
