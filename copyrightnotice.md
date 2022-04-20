@@ -6,7 +6,7 @@ This material is used with limited permission of CCP Games. No official affiliat
 
 #Textures
 
-This mod contains textures created by Ranvids of the SONER team. This material is used with limited permission of Ranvids. No official affiliation or endorsement by Ranvids is stated or implied.
+This mod contains textures created by Ranvids and the SONER team. This material is used with limited permission of Ranvids and the SONER team. No official affiliation or endorsement by Ranvids and the SONER team is stated or implied.
 
 #Egosoft GmbH Copyright Notice
 
