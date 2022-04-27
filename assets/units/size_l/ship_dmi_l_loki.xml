@@ -264,29 +264,29 @@
 					<quaternion qw="-0.6823714433493789" qx="-0.002152079877203716" qy="0.002305591009748818" qz="0.7309988140233766"/>
 				</offset>
 			</connection>
-			<connection name="con_l_weapon_1" tags="weapon large standard weapon_dmi_l">
+			<connection name="con_l_weapon_1" tags="weapon large standard weapon_dmi_l symmetry symmetry_left">
 				<offset>
 					<position x="-21.0509" y="-18.093600000000002" z="94.6186"/>
 				</offset>
 			</connection>
-			<connection name="con_l_weapon_2" tags="weapon large standard weapon_dmi_l">
+			<connection name="con_l_weapon_2" tags="weapon large standard weapon_dmi_l symmetry symmetry_right">
 				<offset>
 					<position x="21.0509" y="-18.093600000000002" z="94.6186"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_1" tags="countermeasures">
+			<connection name="con_countermeasures_counter_1" tags="countermeasures">
 				<offset>
 					<position x="-0.0" y="-23.145" z="-99.9919"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_2" tags="countermeasures">
+			<connection name="con_countermeasures_counter_2" tags="countermeasures">
 				<offset>
 					<position x="-8.0891" y="-31.8849" z="22.9378"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_3" tags="countermeasures">
+			<connection name="con_countermeasures_counter_3" tags="countermeasures">
 				<offset>
 					<position x="8.0891" y="-31.8849" z="22.9378"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>

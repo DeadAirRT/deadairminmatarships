@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<content id="DeadAirFactionMindatarShips" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir" version="090" date="2022-04-13" save="1" sync="false">
-  <dependency id="ego_dlc_split" optional="true" name="Split Vendetta" />
-  <dependency id="ego_dlc_terran" optional="true" name="Cradle of Humanity" />
-  <dependency id="ego_dlc_pirate" optional="true" name="Tides of Avarice"/>
-  <dependency id="DeadAirFactionMindatar" optional="false" name="DeadAir Faction Mindatar" />
-  <dependency id="DeadAirFactions_VRO" optional="false" name="DeadAir Factions VRO" />
-  <text language="7" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"></text>
-  <text language="33" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"></text>
-  <text language="34" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"></text>
-  <text language="39" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"></text>
-  <text language="44" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"></text>
-  <text language="45" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"></text>
-  <text language="49" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"></text>
-  <text language="81" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"></text>
-  <text language="82" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"></text>
-  <text language="86" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"></text>
-  <text language="88" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"></text>
+<content id="DeadAirFactionMindatarShips" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir" version="091" date="2022-04-27" save="1" sync="false">
+	<dependency id="ego_dlc_split" optional="true" name="Split Vendetta"/>
+	<dependency id="ego_dlc_terran" optional="true" name="Cradle of Humanity"/>
+	<dependency id="ego_dlc_pirate" optional="true" name="Tides of Avarice"/>
+	<dependency id="DeadAirFactionMindatar" optional="false" name="DeadAir Faction Mindatar"/>
+	<dependency id="DeadAirFactions_VRO" optional="false" name="DeadAir Factions VRO"/>
+	<text language="7" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"/>
+	<text language="33" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"/>
+	<text language="34" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"/>
+	<text language="39" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"/>
+	<text language="44" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"/>
+	<text language="45" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"/>
+	<text language="49" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"/>
+	<text language="81" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"/>
+	<text language="82" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"/>
+	<text language="86" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"/>
+	<text language="88" name="Deadair Minmatar Ships" description="Adds Minmatar Ships" author="DeadAir"/>
 </content>

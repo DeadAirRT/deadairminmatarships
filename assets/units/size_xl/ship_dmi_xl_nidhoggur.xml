@@ -422,31 +422,31 @@
 					<quaternion qw="-0.9936335054177585" qx="-1.1266080468026401e-07" qy="0.0" qz="0.11266080468026402"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_1" tags="countermeasures">
+			<connection name="con_countermeasures_counter_1" tags="countermeasures">
 				<offset>
 					<position x="-0.0" y="-9.1462" z="-957.5939999999999"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_2" tags="countermeasures">
+			<connection name="con_countermeasures_counter_2" tags="countermeasures">
 				<offset>
 					<position x="-294.814" y="5.7078" z="-525.432"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_3" tags="countermeasures">
+			<connection name="con_countermeasures_counter_3" tags="countermeasures">
 				<offset>
 					<position x="294.814" y="5.7078" z="-525.432"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_4" tags="countermeasures">
+			<connection name="con_countermeasures_counter_4" tags="countermeasures">
 				<offset>
 					<position x="-238.90699999999998" y="-88.4162" z="187.028"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>
 				</offset>
 			</connection>
-			<connection group="counter" name="con_countermeasures_counter_5" tags="countermeasures">
+			<connection name="con_countermeasures_counter_5" tags="countermeasures">
 				<offset>
 					<position x="238.90699999999998" y="-88.4162" z="187.028"/>
 					<quaternion qw="-0.7071068967259818" qx="0.7071066656470943" qy="0.0" qz="-0.0"/>

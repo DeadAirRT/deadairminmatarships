@@ -11,7 +11,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\fenrir\fenrir_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -42,7 +42,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\hurricane\hurricane_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -73,7 +73,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\loki\lokiA_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -102,7 +102,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\loki\lokiB_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -131,7 +131,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\loki\lokiC_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -160,7 +160,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\loki\lokiD_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -191,7 +191,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\maelstrom\maelstromA_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -220,7 +220,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\maelstrom\maelstromB_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -251,7 +251,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\nidhoggur\nidhoggur_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -282,7 +282,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\ragnarok\ragnarokA_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -311,7 +311,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\ragnarok\ragnarokB_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -342,7 +342,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\stabber\stabber_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -373,7 +373,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\tempest\tempest_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
@@ -404,7 +404,7 @@
         <property type="BitMap" name="color_glow_map" value="extensions\deadairminmatarships\assets\textures\tornado\tornado_emissive" />
         <property type="Float" name="diffuseStr" value="1.0" />
         <property type="Float" name="normalStr" value="1.0" />
-        <property type="Float" name="color_glowStr" value="1.0" />
+        <property type="Float" name="color_glowStr" value="0.5" />
         <property type="Float" name="color_dirtStr" value="1.0" />
         <property type="Float" name="environmentStr" value="0.5" />
         <property type="Float" name="Smoothness" value="1.0" />
