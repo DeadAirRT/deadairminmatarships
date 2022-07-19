@@ -3,11 +3,11 @@
 	<add sel="//wares">
 		<!-- SHIPS -->
 		<ware id="ship_dmi_l_stabber" name="{4816392,104}" description="{4816392,204}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="4595057" average="5058890" max="5522724"/>
+			<price min="3612934" average="4250510" max="4888087"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="800"/>
-					<ware ware="hullparts" amount="3650"/>
+					<ware ware="energycells" amount="2475"/>
+					<ware ware="hullparts" amount="3878"/>
 				</primary>
 			</production>
 			<component ref="ship_dmi_l_stabber_macro" amount="1"/>
@@ -15,11 +15,11 @@
 			<owner faction="mindatar"/>
 		</ware>
 		<ware id="ship_dmi_l_maelstrom" name="{4816392,103}" description="{4816392,203}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="7559033" average="8892980" max="10226927"/>
+			<price min="5289984" average="6223510" max="7157036"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="1387"/>
-					<ware ware="hullparts" amount="6102"/>
+					<ware ware="energycells" amount="3625"/>
+					<ware ware="hullparts" amount="5678"/>
 				</primary>
 			</production>
 			<component ref="ship_dmi_l_maelstrom_macro" amount="1"/>
@@ -27,11 +27,11 @@
 			<owner faction="mindatar"/>
 		</ware>
 		<ware id="ship_dmi_l_fenrir" name="{4816392,100}" description="{4816392,200}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="7559033" average="8892980" max="10226927"/>
+			<price min="2497746" average="2938525" max="3379304"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="5"/>
-					<ware ware="hullparts" amount="5"/>
+					<ware ware="energycells" amount="666"/>
+					<ware ware="hullparts" amount="2761"/>
 				</primary>
 			</production>
 			<component ref="ship_dmi_l_fenrir_macro" amount="1"/>
@@ -39,11 +39,11 @@
 			<owner faction="mindatar"/>
 		</ware>
 		<ware id="ship_dmi_l_tempest" name="{4816392,105}" description="{4816392,205}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="5495057" average="5858890" max="6522724"/>
+			<price min="4809207" average="5657890" max="6506573"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="1000"/>
-					<ware ware="hullparts" amount="4050"/>
+					<ware ware="energycells" amount="3295"/>
+					<ware ware="hullparts" amount="5162"/>
 				</primary>
 			</production>
 			<component ref="ship_dmi_l_tempest_macro" amount="1"/>
@@ -51,11 +51,11 @@
 			<owner faction="mindatar"/>
 		</ware>
 		<ware id="ship_dmi_l_tornado" name="{4816392,106}" description="{4816392,206}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="5195057" average="5658890" max="6222724"/>
+			<price min="3284081" average="3863625" max="4443169"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="850"/>
-					<ware ware="hullparts" amount="3870"/>
+					<ware ware="energycells" amount="2250"/>
+					<ware ware="hullparts" amount="3525"/>
 				</primary>
 			</production>
 			<component ref="ship_dmi_l_tornado_macro" amount="1"/>
@@ -63,11 +63,11 @@
 			<owner faction="mindatar"/>
 		</ware>
 		<ware id="ship_dmi_l_hurricane" name="{4816392,101}" description="{4816392,201}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="5195057" average="5658890" max="6222724"/>
+			<price min="4372217" average="5143785" max="5915353"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="850"/>
-					<ware ware="hullparts" amount="3870"/>
+					<ware ware="energycells" amount="2995"/>
+					<ware ware="hullparts" amount="4693"/>
 				</primary>
 			</production>
 			<component ref="ship_dmi_l_hurricane_macro" amount="1"/>
@@ -75,11 +75,11 @@
 			<owner faction="mindatar"/>
 		</ware>
 		<ware id="ship_dmi_l_loki" name="{4816392,102}" description="{4816392,202}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="4595057" average="5058890" max="5522724"/>
+			<price min="3974439" average="4675810" max="5377182"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="800"/>
-					<ware ware="hullparts" amount="3650"/>
+					<ware ware="energycells" amount="2723"/>
+					<ware ware="hullparts" amount="4266"/>
 				</primary>
 			</production>
 			<component ref="ship_dmi_l_loki_macro" amount="1"/>
@@ -87,11 +87,11 @@
 			<owner faction="mindatar"/>
 		</ware>
 		<ware id="ship_dmi_xl_nidhoggur" name="{4816392,107}" description="{4816392,207}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="16038308" average="18650950" max="21263593"/>
+			<price min="7176338" average="8442750" max="9709163"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="3703"/>
-					<ware ware="hullparts" amount="13035"/>
+					<ware ware="energycells" amount="4300"/>
+					<ware ware="hullparts" amount="7750"/>
 				</primary>
 			</production>
 			<component ref="ship_dmi_xl_nidhoggur_macro" amount="1"/>
@@ -99,11 +99,11 @@
 			<owner faction="mindatar"/>
 		</ware>
 		<ware id="ship_dmi_xl_ragnarok" name="{4816392,108}" description="{4816392,208}" group="ships_argon" transport="ship" volume="1" tags="ship">
-			<price min="16038308" average="18650950" max="21263593"/>
+			<price min="8970866" average="10553960" max="12137054"/>
 			<production time="30" amount="1" method="default" name="{20206,101}">
 				<primary>
-					<ware ware="energycells" amount="3703"/>
-					<ware ware="hullparts" amount="13035"/>
+					<ware ware="energycells" amount="5375"/>
+					<ware ware="hullparts" amount="9688"/>
 				</primary>
 			</production>
 			<component ref="ship_dmi_xl_ragnarok_macro" amount="1"/>
